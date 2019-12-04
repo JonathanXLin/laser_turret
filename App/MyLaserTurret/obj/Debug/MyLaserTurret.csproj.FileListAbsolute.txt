@@ -37,3 +37,13 @@ C:\Users\Jonathan\Documents\GitHub\laser_turret\Laser Turret\MyLaserTurret\obj\D
 C:\Users\Jonathan\Documents\GitHub\laser_turret\Laser Turret\MyLaserTurret\bin\Debug\MyLaserTurret.exe.config
 C:\Users\Jonathan\Documents\GitHub\laser_turret\Laser Turret\MyLaserTurret\bin\Debug\MyLaserTurret.exe
 C:\Users\Jonathan\Documents\GitHub\laser_turret\Laser Turret\MyLaserTurret\bin\Debug\MyLaserTurret.pdb
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\bin\Debug\MyLaserTurret.exe.config
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\bin\Debug\MyLaserTurret.exe
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\bin\Debug\MyLaserTurret.pdb
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\obj\Debug\MyLaserTurret.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\obj\Debug\MyLaserTurret.main.resources
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\obj\Debug\MyLaserTurret.Properties.Resources.resources
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.GenerateResource.cache
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\obj\Debug\MyLaserTurret.exe
+C:\Users\Jonathan\Documents\GitHub\laser_turret\App\MyLaserTurret\obj\Debug\MyLaserTurret.pdb

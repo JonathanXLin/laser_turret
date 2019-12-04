@@ -15,9 +15,7 @@ void setup()
 }
 
 void loop() 
-{
-  //lol
-}
+{}
 
 void serialEvent() 
 {
